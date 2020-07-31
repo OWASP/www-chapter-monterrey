@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Monterrey
 tags: example-tag
 level: 4
+meetup-group: OWASP-Monterrey-Chapter
+country: Mexico
+postal-code: 
 
 ---
 
