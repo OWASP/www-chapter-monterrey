@@ -4,9 +4,9 @@ layout: col-sidebar
 title: OWASP Monterrey
 tags: example-tag
 level: 4
+region: South America
 meetup-group: OWASP-Monterrey-Chapter
 country: Mexico
-Region: South America
 postal-code: 
 
 ---
