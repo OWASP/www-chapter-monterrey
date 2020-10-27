@@ -6,6 +6,7 @@ tags: example-tag
 level: 4
 meetup-group: OWASP-Monterrey-Chapter
 country: Mexico
+Region: South America
 postal-code: 
 
 ---
