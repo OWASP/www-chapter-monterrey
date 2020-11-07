@@ -22,6 +22,6 @@ tienes alguna duda puedes contactarnos al correo [Leonel De leon](mailto:leoneld
 
 Próximos Eventos
 ---------------
-
+ {% include chapter_events.html group=page.meetup-group %}
 ### OWASP Monterrey Chapter Meeting
 
