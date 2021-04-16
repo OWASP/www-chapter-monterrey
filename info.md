@@ -7,7 +7,7 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Monterrey-Chapter/)
 
 ### Code Repository
 * [repo](#)
