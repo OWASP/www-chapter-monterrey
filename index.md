@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Monterrey
 tags: mexico
-region: South America
+region: North America
 meetup-group: OWASP-Monterrey-Chapter
 country: Mexico
 
